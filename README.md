@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente estou estudando no Cedup Hermann Hering<br>Estou fazendo o técnico em Desenvolvimento de Sistemas<br>Estou aprendendo sobre Java, Python, MySQL, React<br>Busco novos conhecimentos, e tenho curiosidade por novas técnologias<br>Tenho interesse em vagas FrontEnd<br>Tenho 17 anos
+Atualmente estou estudando no Cedup Hermann Hering<br>Estou fazendo o técnico em Desenvolvimento de Sistemas<br>Estou aprendendo sobre Java, Typescript, MySQL, React<br>Busco novos conhecimentos, e tenho curiosidade por novas técnologias<br>Tenho interesse em vagas FrontEnd<br>Tenho 17 anos
 
 
 ## 🌐 Socials:
