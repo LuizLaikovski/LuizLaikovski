@@ -1,6 +1,5 @@
 # 💫 About Me:
-Atualmente estou estudando no Cedup Hermann Hering<br>Estou fazendo o técnico em Desenvolvimento de Sistemas<br>Estou aprendendo sobre Java, Typescript, MySQL, React<br>Busco novos conhecimentos, e tenho curiosidade por novas técnologias<br>Tenho interesse em vagas FrontEnd<br>Tenho 17 anos
-
+I'm currently studying at Cedup Hermann Hering.<br>I'm taking a technical course in Systems Development.<br>I'm learning about Typescript, Java, MySQL, and React.<br>I'm seeking new knowledge and am curious about new technologies.<br>I'm interested in FrontEnd positions.<br>I'm 17 years old.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luizlaikovski_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-pasin-laikovski-266bb1302/) 
