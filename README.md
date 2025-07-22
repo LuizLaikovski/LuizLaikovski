@@ -3,7 +3,7 @@ Atualmente estou estudando no Cedup Hermann Hering<br>Estou fazendo o técnico e
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lz.lvk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-pasin-laikovski-266bb1302/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luizlaikovski_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-pasin-laikovski-266bb1302/) 
 
 # 💻 Tech Stack:
 
