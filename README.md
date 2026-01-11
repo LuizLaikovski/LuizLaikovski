@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 Atualmente estou iniciando a faculdade de Engenharia de Software;<br/>
-No momento estou estudando sobre testes automatizados e Redux;<br/>
+No momento estou estudando sobre ORMs e Prisma;<br/>
 Tenho interesse em vagas de Desenvolvedor Fullstack;<br/>
 
 ## 🌐 Socials:
