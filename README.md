@@ -1,11 +1,8 @@
 # 💫 About Me:
 
 Atualmente estou iniciando a faculdade de Engenharia de Software;<br/>
-No momento estou estudando sobre ORMs e Prisma;<br/>
-Tenho interesse em vagas de Desenvolvedor Fullstack;<br/>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_luizlaikovski) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizlaikovski) 
+No momento estou estudando sobre SpringBot;<br/>
+Tenho interesse em vagas de Desenvolvedor Fullstack ou RPA;<br/>
 
 # 💻 Tech Stack:
 
