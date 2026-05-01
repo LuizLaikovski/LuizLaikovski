@@ -44,3 +44,5 @@ Tenho interesse em vagas de Desenvolvedor Fullstack ou RPA;<br/>
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+
+![Most Used](https://banner-info-profile.vercel.app/banner/luizlaikovski)
