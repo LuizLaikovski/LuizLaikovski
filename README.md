@@ -1,8 +1,15 @@
 # 💫 Sobre mim:
 
 Atualmente estou iniciando a faculdade de Engenharia de Software;<br/>
-No momento estou estudando sobre SpringBot;<br/>
+No momento estou estudando sobre SpringBoot;<br/>
 Tenho interesse em vagas de Desenvolvedor Fullstack ou RPA;<br/>
+
+# 🤝 Freelancer
+
+Além da atuação profissional, estou disponível para projetos sob demanda: sistemas web, 
+automações com Python e Selenium, APIs REST e dashboards Power BI.
+
+👉 **[Acesse meu portfólio e veja meus projetos](https://luizlaikovskipf.vercel.app)**
 
 # 💻 Stacks
 
