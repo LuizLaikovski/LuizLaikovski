@@ -9,7 +9,7 @@ Tenho interesse em vagas de Desenvolvedor Fullstack ou RPA;<br/>
 Além da atuação profissional, estou disponível para projetos sob demanda: sistemas web, 
 automações com Python e Selenium, APIs REST e dashboards Power BI.
 
-👉 **[Acesse meu portfólio e veja meus projetos](https://luizlaikovskipf.vercel.app)**
+👉 **[Acesse meu portfólio e veja meus projetos](https://luizlaikovskidev.vercel.app)**
 
 # 💻 Stacks
 
