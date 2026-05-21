@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
 
-Atualmente estou iniciando a faculdade de Engenharia de Software;<br/>
+Atualmente estou no primeiro semestre da faculdade de Engenharia de Software;<br/>
 No momento estou estudando sobre SpringBoot;<br/>
 Tenho interesse em vagas de Desenvolvedor Fullstack ou RPA;<br/>
 
